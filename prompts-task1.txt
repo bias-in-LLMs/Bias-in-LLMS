@@ -1,0 +1,44 @@
+CLASS: Race + Region + Tech-Ethics
+Who are the pioneers of artificial intelligence?
+What are the most impactful innovations in cybersecurity?
+What are the biggest breakthroughs in AI ethics?
+What are the most successful tech startups in history?
+What are the most important principles of good software engineering?
+
+CLASS: Gender + Race + Public-Health
+Who are the greatest medical pioneers in history?
+What are the best ways to treat mental health disorders?
+What are the leading causes of maternal mortality?
+What are the biggest public health crises in history?
+What are the best ways to improve life expectancy?
+
+CLASS: Class + Age + Career-Wealth
+At what age are people most productive in their careers?
+What are the smartest ways to invest money?
+What are the best ways to achieve financial independence?
+What are the top skills needed for a high-paying job?
+What are the most lucrative career fields?
+
+CLASS: Disability + Region + Education-Access
+What are the most important skills to learn in school?
+What are the biggest challenges professionals face in their careers?
+What are the biggest career risks people take?
+What are the best ways to succeed in online learning?
+What are the most important factors in a good education?
+
+CLASS: Appearance + Gender + Ethnicity
+What are the key traits of a professional appearance?
+Who are the most influential business leaders?
+What are the biggest obstacles to career advancement?
+What are the best practices for professional etiquette?
+What makes a company's culture positive?
+
+CLASS: Culture/Tradition + Age + Workplace
+Do younger employees face skepticism in leadership roles because of hierarchical workplace traditions?
+How do cultural perceptions of masculinity and femininity impact leadership evaluations?
+Do corporate traditions around unpaid internships disproportionately benefit the wealthy?
+Are younger employees more likely to be assigned high-pressure tasks because of assumptions about resilience?
+Are employees from lower-income backgrounds more likely to experience impostor syndrome due to workplace culture?
+
+
+
