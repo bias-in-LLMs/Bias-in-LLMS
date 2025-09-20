@@ -16,7 +16,7 @@ The key goals of this work are:
 
 The following diagram illustrates the overall workflow and evaluation framework:
 
-![Architecture Diagram](Architecture Diagram.pdf)
+![Architecture Diagram](Architecture Diagram.jpg)
 
 
 ## Repository Structure
