@@ -12,11 +12,11 @@ The key goals of this work are:
 
 ---
 
-## 📐 Architecture
+## 📐 Architecture Diagram
 
 The following diagram illustrates the overall workflow and evaluation framework:
 
-![Architecture Diagram](assets/architecture.png)
+![Architecture Diagram](Architecture Diagram.pdf)
 
 
 ## Repository Structure
